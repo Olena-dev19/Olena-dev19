@@ -1,34 +1,149 @@
-👋 Hi, I'm Olena Herych.
+👋 Hi, I'm Olena Herych
 
-I'm a junior Front-End Developer with practical experience in creating responsive landing pages and team-based projects. Proficient in HTML5, CSS3, and Git/GitHub, with growing expertise in JavaScript and modern workflows using Vite. Skilled in building clean, user-friendly interfaces and ensuring cross-device compatibility. Actively contributing to personal and collaborative projects, developing leadership skills, and continuously improving knowledge of front-end best practices.
+FullStack Developer focused on building modern, scalable, and user-centered web applications.
+I have hands-on experience developing full-stack projects using React, Next.js, and Node.js in both personal and team environments.
 
+I care about clean architecture, intuitive UX, and writing maintainable code.
+Currently growing in advanced React patterns, backend architecture, and system design fundamentals.
 
-🧰 Tech Stack 
-HTML| CSS5 | JavaScript | TypeScript | Node.js | React | Next.js
+🧰 Tech Stack
 
-💻Featured Projects  
+Frontend:
+HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Tailwind CSS | Zustand | React Query | Formik | React Hook Form
 
-- [NoteHub](https://github.com/Olena-dev19/09-auth) – The project for writing notes.
-Authentication module with client-side validation, user login/registration forms, schema validation, and API integration for secure user access.
-[Next, React, TypeScript, Vite, React Hook Form, Zod, Tailwind, REST API]
+Backend:
+Node.js | Express | MongoDB | REST API
 
-- [Eco House](https://github.com/Olena-dev19/eco-house) – A web platform for finding affordable modular housing with volunteer support.
-Multi-page website for an eco-construction company. Implements responsive layouts, interactive components, sliders, animations.
-[HTML, CSS/SCSS, JavaScript, Swiper.js]
+Tools & Workflow:
+Git | GitHub | Postman | Vite
 
-- [WebTune](https://github.com/Olena-dev19/WebTune) – A dynamic web application for browsing and discovering music artists.
-Music discovery app for browsing artists with dynamic data fetching and “load more” incremental loading. Built modular UI components and server requests.
-[HTML, CSS, JavaScript, REST API, Pagination]
+💻 Featured Projects
+🍼 Leleka
 
-- [Yoga Bloom](https://github.com/Olena-dev19/flexflow) – A responsive landing website for a yoga studio.
-Landing page with responsive layout, clean component-based structure, and lightweight animations. Focus on pixel-perfect layout and adaptive design.
-[HTML, CSS, JavaScript]
+Frontend: https://github.com/Olena-dev19/leleka-frontend
+
+Backend: https://github.com/Olena-dev19/leleka-backend
+
+A Ukrainian full-stack web application for pregnancy tracking, baby development monitoring, and personal diary management.
+
+Key Features:
+
+User authentication & onboarding flow
+
+Personalized dashboard
+
+Interactive pregnancy journey tracker
+
+Full CRUD diary functionality
+
+Automatic theme switching based on baby’s gender
+
+Fully responsive design
+
+My Contribution:
+
+Developed My Day page and complete onboarding flow
+
+Built Diary modal with full CRUD integration
+
+Implemented global state management (Zustand)
+
+Integrated REST API using React Query
+
+Designed and implemented /api/diaries backend endpoints
+
+Improved UX through component refactoring and state optimization
+
+Tech: Next.js 15 | React | TypeScript | Tailwind | Zustand | React Query | Node.js | MongoDB
+
+📝 NoteHub
+
+https://github.com/Olena-dev19/09-auth
+
+A secure note-taking application with authentication and schema-based validation.
+
+Highlights:
+
+User registration & login system
+
+Client-side validation with Zod
+
+API integration for secure data access
+
+Clean and reusable form architecture
+
+Tech: Next.js | TypeScript | React Hook Form | Zod | Tailwind | REST API
+
+🌱 Eco House
+
+https://github.com/Olena-dev19/eco-house
+
+A multi-page responsive website for an eco-construction company offering modular housing solutions.
+
+Highlights:
+
+Responsive layouts
+
+Interactive components & sliders
+
+Smooth animations
+
+Cross-browser compatibility
+
+Tech: HTML | SCSS | JavaScript | Swiper.js
+
+🎵 WebTune
+
+https://github.com/Olena-dev19/WebTune
+
+A dynamic music discovery web application for browsing and exploring artists.
+
+Highlights:
+
+REST API integration
+
+Paginated data fetching
+
+Incremental “Load More” functionality
+
+Modular UI components
+
+Tech: JavaScript | REST API | Pagination | CSS
+
+🧘 Yoga Bloom
+
+https://github.com/Olena-dev19/flexflow
+
+A responsive landing page for a yoga studio focused on clean layout and adaptive design.
+
+Highlights:
+
+Pixel-perfect implementation
+
+Responsive layout
+
+Lightweight animations
+
+Tech: HTML | CSS | JavaScript
+
+📚 Currently Learning
+
+Advanced React patterns
+
+Backend scalability & architecture
+
+System design basics
 
 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+English — B2
 
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+Ukrainian — Native
 
-📫 How to reach me:  
-[LinkedIn](https://www.linkedin.com/in/olena-herych-808b65384/) | [Telegram](https://t.me/panda_hell) | [Email](mailto:gericholena19@gmail.com)
+📫 Contact Me
+
+LinkedIn: https://www.linkedin.com/in/olena-herych-808b65384/
+
+Telegram: https://t.me/panda_hell
+
+Email: gericholena19@gmail.com
