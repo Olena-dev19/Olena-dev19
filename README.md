@@ -12,6 +12,7 @@ Backend: Node.js | Express | MongoDB | REST API
 Tools: Git | GitHub | Postman | Vite
 
 💻 Featured Projects
+
 🍼 Leleka
 
 Frontend: https://github.com/Olena-dev19/leleka-frontend
