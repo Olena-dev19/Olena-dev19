@@ -6,7 +6,9 @@ Focused on clean architecture, intuitive UX, and maintainable code.
 🧰 Tech Stack
 
 Frontend: HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Tailwind | Zustand | React Query
+
 Backend: Node.js | Express | MongoDB | REST API
+
 Tools: Git | GitHub | Postman | Vite
 
 💻 Featured Projects
