@@ -1,53 +1,82 @@
-👋 Hi, I'm Olena Herych
+# 👋 Hi, I'm Olena Herych
 
-FullStack Developer building modern, user-centered web applications with React, Next.js, and Node.js.
-Focused on clean architecture, intuitive UX, and maintainable code.
+Junior Fullstack Developer passionate about building scalable, user-focused web applications with React, Next.js, Node.js, and TypeScript.
 
-🧰 Tech Stack
+I specialize in developing modern full-stack products with clean architecture, intuitive user experiences, and maintainable code.
 
-Frontend: HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Tailwind | Zustand | React Query
+---
 
-Backend: Node.js | Express | MongoDB | REST API
+## 🚀 Tech Stack
 
-Tools: Git | GitHub | Postman | Vite
+### Frontend
 
-💻 Featured Projects
+React • Next.js • TypeScript • Redux Toolkit • React Query • Zustand • Tailwind CSS • HTML5 • CSS3
 
-🍼 Leleka
+### Backend
 
-Frontend: https://github.com/Olena-dev19/leleka-frontend
+Node.js • Express.js • MongoDB • Mongoose • REST API • NextAuth.js
 
-Backend: https://github.com/Olena-dev19/leleka-backend
+### Tools
 
-Full-stack pregnancy tracking application with authentication, onboarding, personalized dashboard, and diary CRUD functionality.
+Git • GitHub • Postman • Vercel • Vite • npm
 
-My role:
-Developed onboarding flow and My Day page, built diary modal with API integration, implemented Zustand state management, and created /api/diaries backend endpoints.
+---
 
-Tech: Next.js | TypeScript | React Query | Tailwind | Node.js | MongoDB
+## 💼 Featured Projects
 
-📝 NoteHub
+### 🚀 Workspace App
 
-https://github.com/Olena-dev19/09-auth
+A collaborative workspace management platform with authentication, protected routes, and team collaboration.
 
-Secure note-taking app with authentication and schema validation (Zod + React Hook Form).
+* Next.js • TypeScript • NextAuth.js • MongoDB • Tailwind CSS
+* Secure authentication and middleware-based route protection
+* Nested layouts using App Router
+* Production deployment on Vercel
 
-🌱 Eco House
+🔗 Live Demo: https://workspace-app-theta.vercel.app/
+🔗 Repository: https://github.com/Olena-dev19/workspace-app
 
-https://github.com/Olena-dev19/eco-house
+---
 
-Responsive multi-page website with animations and interactive components.
+### 🌐 Community App
 
-🎵 WebTune
+A full-stack social platform for creating posts, commenting, and community interaction.
 
-https://github.com/Olena-dev19/WebTune
+* React • TypeScript • Redux Toolkit • Node.js • Express • MongoDB
+* Global state management with Redux Toolkit
+* Full CRUD for posts and comments
+* REST API integration
 
-Music discovery app with REST API integration and incremental data loading.
+🔗 Live Demo: https://community-app-frontend-theta.vercel.app/
+🔗 Repository: https://github.com/Olena-dev19/community-app
 
-📫 Contact
+---
 
-LinkedIn: https://www.linkedin.com/in/olena-herych-808b65384/
+### 🍼 Leleka
 
-Telegram: https://t.me/panda_hell
+A pregnancy tracking platform with personalized dashboards, onboarding, and diary management.
 
-Email: gericholena19@gmail.com
+* Next.js • TypeScript • React Query • Zustand • Node.js • MongoDB
+* Authentication and onboarding flow
+* Diary CRUD functionality
+* Personalized user dashboard
+
+🔗 Frontend: https://github.com/Olena-dev19/leleka-frontend
+🔗 Backend: https://github.com/Olena-dev19/leleka-backend
+
+---
+
+## 📫 Contact Me
+
+* LinkedIn: https://www.linkedin.com/in/olena-herych-808b65384/
+* Telegram: https://t.me/panda_hell
+* Email: [gericholena19@gmail.com](mailto:gericholena19@gmail.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olena-dev19&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olena-dev19&layout=compact)
+
+⭐ Open to Junior Frontend / Fullstack Developer opportunities
+
+
